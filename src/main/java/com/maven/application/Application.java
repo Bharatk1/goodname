@@ -13,6 +13,6 @@ public class Application {
 	}
 	 @RequestMapping("/satya")
 	   public String home() {
-	        return "Hello World!";
+	        return "I love u";
 	    }
 }
